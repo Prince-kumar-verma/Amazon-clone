@@ -1,2 +1,3 @@
 # Amazon Clone
 
+This is a Cloneof the Amazon Website Created Using HTML and CSS. The Project is still in progress...........
